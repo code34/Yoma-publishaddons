@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<DSServer xmlns="http://tempuri.org/DSServer.xsd">
+  <Mods>
+    <Name>@ACE</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACE</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACE\store</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACE\store\keys</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACEX</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACEX</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACEX\store\keys</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACEX_PLA</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACEX_PLA</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACEX_PLA\store\keys</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACEX_SM</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACEX_SM</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@ACEX_SM\store\keys</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@CBA</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@CBA</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@CBA\store</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>@CBA\store\keys</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+  <Mods>
+    <Name>userconfig\ACE</Name>
+    <Type>0</Type>
+    <WebPage />
+    <SequenceID>9999</SequenceID>
+  </Mods>
+</DSServer>

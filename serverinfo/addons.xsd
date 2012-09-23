@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="DSServer" targetNamespace="http://tempuri.org/DSServer.xsd" xmlns:mstns="http://tempuri.org/DSServer.xsd" xmlns="http://tempuri.org/DSServer.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="DSServer" msdata:IsDataSet="true" msdata:MainDataTable="http_x003A__x002F__x002F_tempuri.org_x002F_DSServer.xsd_x003A_Addons" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Addons">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Md5" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Path" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Pbo" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Size" type="xs:long" default="0" minOccurs="0" />
+              <xs:element name="Url" type="xs:string" default="" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

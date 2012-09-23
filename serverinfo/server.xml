@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DSServer xmlns="http://tempuri.org/DSServer.xsd">
+  <Server>
+    <AddonPwd />
+    <AddonURL>http://91.121.67.134/updater/serverinfo.7z</AddonURL>
+    <AddonUserName />
+    <AutorunTS>false</AutorunTS>
+    <GameIP>91.121.67.134</GameIP>
+    <GamePort>2302</GamePort>
+    <GamePwd />
+    <HomePage>www.air-commando.org</HomePage>
+    <Name>[FR]AIR COMMANDO Linux AO[AFA]</Name>
+    <TSAnonimous>true</TSAnonimous>
+    <TSChannel />
+    <TSChannelPwd />
+    <TSIp>88.191.12.201</TSIp>
+    <TSNickname />
+    <TSPort>9987</TSPort>
+    <TSPwd />
+    <TSUser />
+    <Version>3</Version>
+    <Game>arma2pc</Game>
+    <RequiredAddons>@isla_duala;@ace;@acex;@acex_pla;@rh;@hexagon;@cba;@bwmod</RequiredAddons>
+    <OptionalAddons />
+    <MessageOfTheDay>Bienvenue sur le serveur de sync des =[A*C]=</MessageOfTheDay>
+  </Server>
+</DSServer>

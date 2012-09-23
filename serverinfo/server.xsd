@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="DSServer" targetNamespace="http://tempuri.org/DSServer.xsd" xmlns:mstns="http://tempuri.org/DSServer.xsd" xmlns="http://tempuri.org/DSServer.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="DSServer" msdata:IsDataSet="true" msdata:MainDataTable="http_x003A__x002F__x002F_tempuri.org_x002F_DSServer.xsd_x003A_Server" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Server">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AddonPwd" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="AddonURL" type="xs:string" default=" " minOccurs="0" />
+              <xs:element name="AddonUserName" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="AutorunTS" type="xs:boolean" default="false" minOccurs="0" />
+              <xs:element name="GameIP" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="GamePort" type="xs:int" default="2302" minOccurs="0" />
+              <xs:element name="GamePwd" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="HomePage" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Name" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="TSAnonimous" type="xs:boolean" default="true" minOccurs="0" />
+              <xs:element name="TSChannel" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="TSChannelPwd" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="TSIp" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="TSNickname" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="TSPort" type="xs:int" default="8767" minOccurs="0" />
+              <xs:element name="TSPwd" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="TSUser" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Version" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Game" type="xs:string" minOccurs="0" />
+              <xs:element name="RequiredAddons" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="OptionalAddons" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="MessageOfTheDay" type="xs:string" default="" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
